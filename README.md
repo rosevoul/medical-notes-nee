@@ -2,7 +2,7 @@
 
 # Natural Language Entity Extraction
 
-In this project we show how to extract ground truth labels from Radiology reports (unstructured medical text).  
+In this project we extract ground truth labels from Radiology reports (unstructured medical text).  
   
 Methods and techniques covered:
 * Text matching
